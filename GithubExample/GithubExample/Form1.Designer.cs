@@ -33,12 +33,12 @@
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("Baskerville Old Face", 30F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Font = new System.Drawing.Font("Mapo배낭여행", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.button1.Location = new System.Drawing.Point(12, 12);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(314, 426);
+            this.button1.Size = new System.Drawing.Size(318, 172);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Test";
+            this.button1.Text = "누구세용?";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -46,7 +46,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(342, 450);
+            this.ClientSize = new System.Drawing.Size(342, 199);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
