@@ -18,8 +18,10 @@ namespace GithubExample
         }
 
         private void button1_Click(object sender, EventArgs e)
-        { 
-            MessageBox.Show("테스트입니다", "알림", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        {
+            //MessageBox.Show("테스트입니다", "알림", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            //영상에서 한거
+            MessageBox.Show("뚱인데용", "제 이름은");
         }
     }
 }
